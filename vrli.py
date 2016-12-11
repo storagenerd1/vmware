@@ -30,6 +30,8 @@ def checkpkg(pkg):
             commands.getstatusoutput("rpm -ivh " +url +vrli)
     elif os[0] == 'centos':
         print 'Needs Work'
+    elif os[0] == 'SuSe':
+        print 'Needs Work'    
     else:
         print 'Unknown OS, nothing to do!'
 
