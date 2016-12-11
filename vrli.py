@@ -3,7 +3,7 @@
 # Storagenerd 28112016
 
 url = 'http://reposerver/loginsight/'
-vrli = 'VMware-Log-Insight-Agent-4.0.0-4549831.noarch_10.212.113.3.rpm'
+vrli = 'VMware-Log-Insight-Agent-4.0.0-4549831.noarch_10.0.0.15.rpm'
 
 pkg = 'VMware-Log-Insight-Agent'
 
